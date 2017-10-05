@@ -2,6 +2,7 @@
   "name": "CompassHeading",
   "version": "1.0.0",
   "keywords": ["compass", "degrees", "magnetometer"],
+  "description": "Simple wrapper of Adafruit HMC5883L library to poll for compass heading in degrees",
   "authors": [
     {
       "name": "Dr Nic Williams",
@@ -9,8 +10,6 @@
       "maintainer": true
     }
   ],
-  "sentence": "Simple wrapper of Adafruit HMC5883L library to poll for compass heading in degrees",
-  "paragraph": "Simple wrapper of Adafruit HMC5883L library to poll for compass heading in degrees",
   "category": "Sensors",
   "url": "https://github.com/drnic/CompassHeading",
   "architectures": "*",
