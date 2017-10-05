@@ -1,6 +1,8 @@
 {
   "name": "CompassHeading",
   "version": "1.0.0",
+  "downloadUrl": "https://github.com/drnic/CompassHeading/archive/v1.0.0.tar.gz",
+  "homepage": "https://github.com/drnic/CompassHeading",
   "keywords": ["compass", "degrees", "magnetometer"],
   "description": "Simple wrapper of Adafruit HMC5883L library to poll for compass heading in degrees",
   "authors": [
@@ -11,7 +13,7 @@
     }
   ],
   "category": "Sensors",
-  "url": "https://github.com/drnic/CompassHeading",
+  "frameworks": "*",
   "architectures": "*",
   "dependencies": [
     {"name": "Adafruit Unified Sensor"},
