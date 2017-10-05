@@ -16,6 +16,6 @@
   "architectures": "*",
   "dependencies": [
     {"name": "Adafruit Unified Sensor"},
-    {"name": "Adafruit HMC5883 Unified"},
+    {"name": "Adafruit HMC5883 Unified"}
   ]
 }
