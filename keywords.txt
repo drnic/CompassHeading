@@ -1,0 +1,5 @@
+CompassHeading        KEYWORD1
+
+start                 KEYWORD2
+headingDegrees        KEYWORD2
+displaySensorDetails  KEYWORD2
